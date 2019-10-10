@@ -1,4 +1,5 @@
 # 9377_android_adb_doc
+## adb keyevent对照表
 ### 电话键
 
 KEYCODE_CALL: 拨号键
